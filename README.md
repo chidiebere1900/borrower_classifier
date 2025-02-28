@@ -145,10 +145,3 @@ MIT License - feel free to use and modify this project!
 
 ## Contact:-
 For questions or contributions, reach out to < engr.chidiebere.ndu@engineer.com > or open an issue on GitHub.
-
-## Notes:-
-
-Files Assumed: This assumes app.py, Dockerfile, requirements.txt, borrower_model.pkl, and scaler.pkl are in your repo. If you haven’t pushed to GitHub yet, create these files as per our earlier steps.
-Train Script: I mentioned train_model.py—if you want a separate training script, I can provide it. For now, it’s implied you trained within app.py or separately.
-
-Personalization: Replace <your-username>, <your-account-id>, and <your-email> with your details.
