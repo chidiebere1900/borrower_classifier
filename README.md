@@ -26,7 +26,12 @@ Environment: Linux (WSL)
 
 ## Dataset:-
 
-Source: Loan repayment data (custom or Kaggle-inspired, 586MB CSV).
+Source: Loan repayment data (custom or Kaggle-inspired, 1.6G CSV).
+
+The `loan_data.csv` file required for this project is hosted on Google Drive. You can download it here:  
+[Download loan_data.csv](https://drive.google.com/uc?export=download&id=13poHzjwxFYhYTVOOTGekovhlW0OcXkPq)
+After downloading, place the file in the root directory of this repository (`borrower_classifier/`) before running the script.
+
 Features Used: annual_inc, dti, fico_range_low, loan_amnt.
 
 Target: loan_status ("Fully Paid" = 0, "Charged Off" = 1).
